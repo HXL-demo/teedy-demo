@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.test.AppTest" time="0.026" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="E:\jenkins-demo\teedy-demo\target\test-classes;E:\jenkins-demo\teedy-demo\target\classes;D:\develop\IDEA\Maven\maven-repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="D:\Download\JDK21\stall jdk21\bin"/>
+    <property name="sun.java.command" value="C:\Windows\Temp\surefire13163902713642200073\surefirebooter-20260523143929918_3.jar C:\Windows\Temp\surefire13163902713642200073 2026-05-23T14-39-29_676-jvmRun1 surefire-20260523143929918_1tmp surefire_0-20260523143929918_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="E:\jenkins-demo\teedy-demo\target\test-classes;E:\jenkins-demo\teedy-demo\target\classes;D:\develop\IDEA\Maven\maven-repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\WINDOWS\system32\config\systemprofile"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-04-21"/>
+    <property name="java.home" value="D:\Download\JDK21\stall jdk21"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="E:\jenkins-demo\teedy-demo"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Windows\Temp\surefire13163902713642200073\surefirebooter-20260523143929918_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.11+9-LTS-211"/>
+    <property name="user.name" value="LAPTOP-0V9QJJT1$"/>
+    <property name="stdout.encoding" value="GBK"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\develop\IDEA\Maven\maven-repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\WINDOWS\TEMP\"/>
+    <property name="java.version" value="21.0.11"/>
+    <property name="user.dir" value="E:\jenkins-demo\teedy-demo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\Download\JDK21\stall jdk21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Download\JDK21\stall jdk21/bin;D:\develop\IDEA\Maven\apache-maven-3.9.6/bin;D:\Download\JDK21\stall jdk21/bin;D:\develop\IDEA\Maven\apache-maven-3.9.6/bin;D:\Download\vmware\VMstation\bin\;D:\develop\IDEA\jdk\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\KuGou\KGMusic;D:\develop\IDEA\apache-tomcat-9.0.80\bin;D:\develop\wechatdevtools\微信web开发者工具\dll;D:\dev;lop\VSCode\mingw64\bin;D:\develop\nodejs\;D:\develop\IDEA\Maven\apache-maven-3.9.6\bin;C:\Users\LIN\AppData\Roaming\FreeControl\scrcpy-win64-v2.2\;D:\develop\Rabbitmq\Erang OTP\Erlang OTP\bin;D:\develop\Rabbitmq\Erang OTP\Erlang OTP\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\develop\Git\cmd;C:\Program Files\dotnet\;D:\develop\SQL Server 2016(64bit)\SQL Server（x86）\130\Tools\Binn\;D:\develop\SQL Server 2016(64bit)\SQL Server\130\Tools\Binn\;D:\develop\SQL Server 2016(64bit)\SQL Server（x86）\130\DTS\Binn\;D:\develop\SQL Server 2016(64bit)\SQL Server\130\DTS\Binn\;D:\develop\SQL Server 2016(64bit)\SQL Server\Client SDK\ODBC\130\Tools\Binn\;D:\develop\SQL Server 2016(64bit)\SQL Server（x86）\150\DTS\Binn\;D:\develop\SQL Server 2016(64bit)\SQL Server\150\Tools\Binn\;D:\develop\SQL Server 2016(64bit)\SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\nodejs\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="GBK"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="21.0.11+9-LTS-211"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.test.AppTest" time="0.004"/>
+</testsuite>
